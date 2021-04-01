@@ -1,0 +1,3 @@
+__pycache__/
+venv/
+course_api_orm_only.db
